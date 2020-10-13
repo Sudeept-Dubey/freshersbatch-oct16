@@ -1,0 +1,1 @@
+Hi,this is the Assignments directory.It contains a readme.txt file.8
